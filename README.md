@@ -1,7 +1,7 @@
 # ArduinoTelegramBot
 Source for create arduino telegram bot 
 
-# 1) Cosa Serve!
+# 1) Cosa Serve Per Creare Questo Bot?
 
 - Arduino UNO
 - cavo USB per Arduino
